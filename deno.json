@@ -1,0 +1,7 @@
+{
+    "scopes": {
+        "./importer.ts": {
+            "./file.ts": "./alias.ts"
+        }
+    }
+}
